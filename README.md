@@ -38,4 +38,10 @@ Its not on the image but, the voltage regulator gets wired in at the 5v input fr
 - Pin 2 = Ground
 - Pin 3 = 5v output
 
+PS10 sensors usualy gets a 5v or 12v input, in this case i'm using the same 5v from wich the ESP get from de voltage regulator 
 
+This is basically what's the package looks like in the end
+
+
+<img width="552" height="431" alt="image" src="https://github.com/user-attachments/assets/6fdf23c1-2bec-43c3-9622-42bb750b863b" /> 
+<img width="552" height="551" alt="image" src="https://github.com/user-attachments/assets/c7dcfd7d-55b0-4377-8189-f7cdd14ef701" />
