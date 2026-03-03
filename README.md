@@ -45,3 +45,22 @@ This is basically what's the package looks like in the end
 
 <img width="552" height="431" alt="image" src="https://github.com/user-attachments/assets/6fdf23c1-2bec-43c3-9622-42bb750b863b" /> 
 <img width="552" height="551" alt="image" src="https://github.com/user-attachments/assets/c7dcfd7d-55b0-4377-8189-f7cdd14ef701" />
+
+
+## Files
+
+There is 2 .ino files, with and without the boot image on it, nothing changes, it's for the gimmick of having a boot up imagem
+to change de image on boot just change the array in "const unsigned char logo [] PROGMEM = {"
+(everything between de {} )
+
+With the splashscreen.ino : 
+
+<img width="96" height="83" alt="image" src="https://github.com/user-attachments/assets/36107874-4095-4e0e-af45-1db3a36b9233" />
+
+
+Whithout it's just go straight to the oil pressure reading.
+
+Upload any image to esp converting it to a array 
+with this: https://javl.github.io/image2cpp/
+(you may or may not need to adjust the export setting to be display it correctly without distortion or being weird )
+
