@@ -1,6 +1,7 @@
 # ESP32 OLED Oil pressure display
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b8b3df91-b2d7-46ad-bd62-2f07bcbd485e" />
+<img width="1152" height="986" alt="image" src="https://github.com/user-attachments/assets/edd5364a-c42d-4af4-92ee-88dbead7919e" />
+
 
 
 ## Overview 
